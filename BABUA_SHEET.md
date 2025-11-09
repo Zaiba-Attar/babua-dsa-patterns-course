@@ -32,5 +32,3 @@
 30. Extra Problems
 
 ---
-
-Would you like me to now generate this as a **Markdown table** with columns for `Day`, `Pattern`, and `Video Link` for your **Babua DSA Patterns Course 2025 README**?
